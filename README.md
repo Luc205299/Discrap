@@ -70,6 +70,8 @@ Here are some important points to consider:
 
 - **Usage Restrictions**: Do not use this bot to collect data in an abusive or intrusive manner, or for purposes other than specified. Any data collection must comply with data protection laws, such as GDPR (General Data Protection Regulation) if you are in Europe.
 
+- **User Bot Usage**: **Using a user bot (a bot that acts on behalf of a user account) is against Discord's Terms of Service**. If you use this script with a user bot, there is a significant risk of your account being permanently banned. Discord explicitly prohibits automation or scripts that interact with user accounts, as it can be considered abuse of their platform. 
+
 
 
 I'll add some update sometimes
