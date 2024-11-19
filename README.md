@@ -69,4 +69,8 @@ Here are some important points to consider:
 - **Data Collection**: This script collects sensitive information such as private messages, user IDs, and metadata. Ensure that you are not collecting sensitive personal data or doing so in an intrusive manner.
 
 - **Usage Restrictions**: Do not use this bot to collect data in an abusive or intrusive manner, or for purposes other than specified. Any data collection must comply with data protection laws, such as GDPR (General Data Protection Regulation) if you are in Europe.
+
+
+
+I'll add some update sometimes
    
